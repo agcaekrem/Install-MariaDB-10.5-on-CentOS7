@@ -97,7 +97,7 @@ versiyonun çalıştığı görülebilir:
 
 > ![user2 create](https://user-images.githubusercontent.com/64022432/200660853-c9be46af-cddc-4247-ae8e-15a60d95d7e9.jpg)
 
-## Burada ben ayrıcalık olarak SELECT verdim SELECT ve diğer ayrıcalıklar için açıklamalar
+### Burada ben ayrıcalık olarak SELECT verdim SELECT ve diğer ayrıcalıklar için açıklamalar
 
 - CREATE – Kullanıcıların veritabanı ve tablo oluşturma izni verir
 - SELECT – Kullanıcıların veriyi okumasına izin verir
@@ -106,7 +106,8 @@ versiyonun çalıştığı görülebilir:
 - DELETE – Kullanıcıların tablo verilerini silmesine izin verir
 - DROP – Kullanıcıların tüm veritabanını veya tabloları silmesine izin verir
 
-## Quit komutu ile çıkış yaptıktan sonra yeni oluşturduğumuz user ile giriş yapalım ve yapmış olduğumuz değşiklikleri inceleyelim:
+### Son olarak
+### Quit komutu ile çıkış yaptıktan sonra yeni oluşturduğumuz user ile giriş yapalım ve yapmış olduğumuz değişiklikleri inceleyelim:
 
 
 > ![describe user2](https://user-images.githubusercontent.com/64022432/200662615-7a7a152c-bd41-4ff7-bd0e-f9c54004af73.jpg)
