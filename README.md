@@ -1,4 +1,4 @@
-# Centos 7 üzerine MariaDb 10.5 kurulumu
+# Install MariaDB 10.5 on CentOS7
 
 ## Tools and Technologies Used:
 - VM --> Aws Ec2
